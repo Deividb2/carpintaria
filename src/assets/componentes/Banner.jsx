@@ -13,7 +13,7 @@ export default function Banner() {
                         <span className='text-amareloPrincipal italic'>Conheça a</span><br /> Carpintaria
                     </h2>
                     <p className='w-larguraParagrafo font-bold text-branco-100 text-center font-grotesk'>
-                        Sou um parágrafo. Clique aqui para editar e adicionar o seu próprio texto. É fácil! Basta clicar em "Editar Texto" ou clicar duas vezes sobre mim e você poderá adicionar o seu próprio conteúdo e trocar fontes.
+                        Recupere o charme e a funcionalidade dos seus móveis, confiando na nossa paixão pela madeira e no compromisso com a excelência. Valorize o seu lar com a magia da carpintaria!"
                     </p>
                 </div>
             </section>

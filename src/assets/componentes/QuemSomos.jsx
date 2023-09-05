@@ -20,17 +20,17 @@ export default function QuemSomos() {
                     <h3 className='text-27 text-amareloPrincipal font-playfair font-bold'>
                         EXCELÊNCIA E<br /> PROFISSIONALISMO
                     </h3>
-                    <p className='text-15 text-textoQuemSomos font-playfair'>Sou um parágrafo. Clique aqui para editar e adicionar o seu próprio texto. É fácil! Basta clicar em "Editar Texto" ou clicar duas vezes sobre mim e você poderá adicionar o seu próprio conteúdo e trocar fontes. </p>
+                    <p className='text-15 text-textoQuemSomos font-playfair'>Oferecemos garantias de excelência e profissionalismo em qualquer dos serviços prestados, assegurando a máxima confidencialidade e respeito pelo pedido do cliente.</p>
                 </div>
 
                 <div>
                     <h3 className='text-27 text-amareloPrincipal font-playfair font-bold'>LICENCIADO E<br /> SEGURO</h3>
-                    <p className='text-15 text-textoQuemSomos font-playfair'>Sou um parágrafo. Clique aqui para editar e adicionar o seu próprio texto. É fácil! Basta clicar em "Editar Texto" ou clicar duas vezes sobre mim e você poderá adicionar o seu próprio conteúdo e trocar fontes. </p>
+                    <p className='text-15 text-textoQuemSomos font-playfair'>Estamos orgulhosos de oferecer produtos licenciados e seguros, garantindo que cada peça de madeira que sai da nossa oficina seja construída com cuidado e precisão.</p>
                 </div>
 
                 <div>
-                    <h3 className='text-27 text-amareloPrincipal font-playfair font-bold'>ABORDAGEM PERSONALIZADA</h3>
-                    <p className='text-15 text-textoQuemSomos font-playfair'>Sou um parágrafo. Clique aqui para editar e adicionar o seu próprio texto. É fácil! Basta clicar em "Editar Texto" ou clicar duas vezes sobre mim e você poderá adicionar o seu próprio conteúdo e trocar fontes. </p>
+                    <h3 className='text-27 text-amareloPrincipal font-playfair font-bold'>ABORDAGEM<br /> PERSONALIZADA</h3>
+                    <p className='text-15 text-textoQuemSomos font-playfair'>Oferecemos um serviço personalizado que vai além das expectativas, transformando seus projetos de madeira em realidade. Com profissionais altamente qualificados cuidamos de cada detalhe para entregar resultados excepcionais.</p>
                 </div>
             </section>
         </>

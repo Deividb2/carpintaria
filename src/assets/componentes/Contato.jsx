@@ -18,7 +18,7 @@ export default function Contato() {
             </div>
 
             <h2 className='text-cinzaEscuro font-playfair text-20 text-center my-10 px-4 md:text-left md:mx-36 md:text-25'>
-                Sou um título. Clique aqui para editar e adicionar o seu próprio texto.
+                Estamos sempre prontos para te ouvir!
             </h2>
 
             <section className='md:grid md:grid-cols-2 md:grid-rows-2 md:gap-10 md:mx-36'>
