@@ -35,6 +35,7 @@ export default {
         'amareloPrincipal': '#F7D57F',
         'cinzaEscuro': '#262626',
         'textoQuemSomos': '#3B3B3B',
+        'rosaPrincipal': '#f5bdd6',
         branco: {
           100: '#FFF',
           200: '#FCFCFC'
@@ -56,6 +57,7 @@ export default {
     fontFamily: {
       playfair: "'Playfair Display', serif",
       grotesk: "'Familjen Grotesk', sans-serif",
+      montserrat: "'Montserrat', sans-serif",
     },
     zIndex: {
       'negativo': '-1',
@@ -63,8 +65,13 @@ export default {
       2: '2'
     },
     backgroundImage: {
+      'daniSoares': "url('./src/assets/imgs/daniSoares.jpeg')",
+      'banner_ds' : "url('./src/assets/imgs/ds_banner.jpeg')",
       'bannerHome': "url('./src/assets/imgs/banner.png')",
       'bannerQuemSomos': "url('./src/assets/imgs/bannerQuemSomos.png')",
+      'fundoRosaEstrelado': "url('./src/assets/imgs/fundoRosaEstrelado.png')",
+      'fundoRosaEstrelado2': "url('./src/assets/imgs/fundoRosaEstrelado2.png')",
+      'fundoRosaEstrelado3': "url('./src/assets/imgs/fundoRosaEstrelado3.png')",
       'bannerServicos': "url('./src/assets/imgs/bannerServicos.png')",
       'bannerGaleria': "url('./src/assets/imgs/bannerGaleria.png')",
       'bannerContato': "url('./src/assets/imgs/bannerContato.png')",

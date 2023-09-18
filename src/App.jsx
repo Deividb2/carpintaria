@@ -5,7 +5,7 @@ import './index.css'
 import Home from './assets/paginas/Home'
 import QuemSomos from './assets/paginas/QuemSomos'
 import Servicos from './assets/paginas/Servicos'
-import Galeria from './assets/paginas/Galeria'
+import ComoTrabalhamos from './assets/paginas/ComoTrabalhamos'
 import Contato from './assets/paginas/Contato'
 
 export default function App() {
@@ -21,11 +21,11 @@ export default function App() {
       </Routes>
 
       <Routes>
-        <Route path='/servicos' element={<Servicos />} />
+        <Route path='/produtos' element={<Servicos />} />
       </Routes>
 
       <Routes>
-        <Route path='/galeria' element={<Galeria />} />
+        <Route path='/comoTrabalhamos' element={<ComoTrabalhamos />} />
       </Routes>
 
       <Routes>

@@ -1,12 +1,12 @@
 import React from 'react'
-import ServicosComponente from '../componentes/Servicos'
+import ProdutosComponente from '../componentes/Produtos'
 import Rodape from '../componentes/Rodape'
 
 export default function Servicos() {
 
     return (
         <>
-            <ServicosComponente />
+            <ProdutosComponente />
             <Rodape />
         </> 
     )
